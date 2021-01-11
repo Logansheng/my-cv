@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f453f1e3-ad68-4ccf-9dea-74fffa5fe11c" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.cache/5f/0a45ccef22e8377b6b3fffcc674677.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/5f/0a45ccef22e8377b6b3fffcc674677.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/d2/254b1bf817ea4e85859a578708c1b1.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/d2/254b1bf817ea4e85859a578708c1b1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/serve.e023f22b.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/serve.e023f22b.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ma2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610254423753</updated>
       <workItem from="1610254425207" duration="19061000" />
+      <workItem from="1610327517474" duration="5873000" />
     </task>
     <servers />
   </component>
